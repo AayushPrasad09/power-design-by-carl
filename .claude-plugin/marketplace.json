@@ -1,0 +1,24 @@
+{
+  "name": "power-design",
+  "owner": {
+    "name": "Carl"
+  },
+  "metadata": {
+    "description": "Brand-native design generator for Claude Code: decks and websites that don't look like AI made them.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "power-design",
+      "source": "./plugins/power-design",
+      "description": "Generate on-brand HTML slide decks and responsive websites using brand DNA plus 40 codified design rules.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jack Roberts"
+      },
+      "license": "MIT",
+      "category": "design",
+      "keywords": ["design", "slides", "website", "branding"]
+    }
+  ]
+}

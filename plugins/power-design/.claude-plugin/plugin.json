@@ -1,0 +1,22 @@
+{
+  "name": "power-design",
+  "version": "1.0.0",
+  "description": "Generate on-brand HTML slide decks and responsive websites by combining brand DNA (72 built-in brand systems or live Firecrawl extraction) with 40 research-backed design rules — 20 for slides, 20 for the web.",
+  "author": {
+    "name": "Jack Roberts",
+    "url": "https://github.com/ItsssssJack"
+  },
+  "homepage": "https://power-design.vercel.app",
+  "repository": "https://github.com/ItsssssJack/power-design",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "slides",
+    "presentation",
+    "deck",
+    "website",
+    "landing-page",
+    "branding",
+    "html"
+  ]
+}
